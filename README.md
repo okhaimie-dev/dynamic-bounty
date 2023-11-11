@@ -25,4 +25,4 @@ Setup your own environmental ID for application to work.
 
 ## Review
 
-Compared to the other web3 wallet providers the onboarding experience felt quite nice. And it was easier to setup most of the environmental variables in the Dynamic dashboard, makes it easier to reuse also
+Compared to the other web3 wallet providers the onboarding experience felt quite nice. And it was easier to setup most of the environmental variables in the Dynamic dashboard, makes it easier to reuse
