@@ -10,6 +10,9 @@ pnpm install
 pnpm dev
 ```
 
+Setup your own environmental ID for application to work.
+<!-- Find your environment id at https://app.dynamic.xyz/dashboard/developer -->
+
 ## Main Dependencies
 
 ```json
