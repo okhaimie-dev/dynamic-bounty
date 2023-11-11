@@ -10,7 +10,7 @@ const DynamicProvider = ({ children }: { children: ReactNode }) => {
 		<DynamicContextProvider
 			settings={{
 				// Find your environment id at https://app.dynamic.xyz/dashboard/developer
-				environmentId: "18f28dba-a643-49d8-a58e-05043e3bb303",
+				environmentId: "xxxxxx-xxxx-xxx-xxxxx",
 				walletConnectors: [EthereumWalletConnectors],
 			}}
 		>

@@ -1,36 +1,25 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Overview
 
-First, run the development server:
+Submission for Farcaster Dynamic bounty
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+git clone https://github.com/okhaimie-dev/dynamic-bounty.git
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Main Dependencies
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```json
+"@dynamic-labs/ethereum": "^0.19.1",
+"@dynamic-labs/sdk-react-core": "^0.19.1",
+"next": "14.0.2",
+"react": "^18",
+"react-dom": "^18"
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Review
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Compared to the other web3 wallet providers the onboarding experience felt quite nice. And it was easier to setup most of the environmental variables in the Dynamic dashboard, makes it easier to reuse also
